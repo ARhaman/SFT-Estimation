@@ -5,3 +5,4 @@ Each well trained and tested by four models are ANN, KNN, RF and FL.
 ANN, KNN, RF models trained and tested by Python (Spyder) so, two types of file formats available are .ipynb and .py. for ANN, KNN, RF models.Each model has spilt file which must be run first.
 FL model trained and tested by Matlab.So, Matlab file formats available.
 Each model forder has word file called 'Results' which refer to the best results with best parametrs that we got during our work.
+Please cit the this work:10.1007/s13369-023-08096-x
